@@ -1,4 +1,4 @@
-# 🐠 Butterfish Shell
+# 🐠 Butterfish Shell 🐠
 
 A shell with AI superpowers
 
